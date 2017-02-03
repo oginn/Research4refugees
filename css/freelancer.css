@@ -22,7 +22,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #18BC9C;
+    color: #2C3E50;
     outline: none;
 }
 
@@ -63,17 +63,17 @@ hr.star-light {
 }
 
 hr.star-light:after {
-    background-color: #18BC9C;
+    background-color: #2C3E50;
     color: white;
 }
 
 hr.star-primary {
-    border-color: #2C3E50;
+    border-color: #BD202C;
 }
 
 hr.star-primary:after {
     background-color: white;
-    color: #2C3E50;
+    color: #BD202C;
 }
 
 hr.sponsors-light,
@@ -102,17 +102,17 @@ hr.sponsors-light {
 }
 
 hr.sponsors-light:after {
-    background-color: #18BC9C;
+    background-color: #2C3E50;
     color: white;
 }
 
 hr.sponsors-primary {
-    border-color: #2C3E50;
+    border-color: #BD202C;
 }
 
 hr.sponsors-primary:after {
     background-color: white;
-    color: #2C3E50;
+    color: #BD202C;
 }
 
 .img-centered {
@@ -121,7 +121,7 @@ hr.sponsors-primary:after {
 
 header {
     text-align: center;
-    background: #18BC9C;
+    background: #2C3E50;
     color: white;
 }
 
@@ -162,7 +162,7 @@ header .intro-text .skills {
 }
 
 .navbar-custom {
-    background: #2C3E50;
+    background: #BD202C;
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     font-weight: 700;
@@ -193,7 +193,7 @@ header .intro-text .skills {
 }
 
 .navbar-custom .navbar-nav li a:hover {
-    color: #18BC9C;
+    color: #2C3E50;
     outline: none;
 }
 
@@ -204,14 +204,14 @@ header .intro-text .skills {
 
 .navbar-custom .navbar-nav li.active a {
     color: white;
-    background: #18BC9C;
+    background: #2C3E50;
 }
 
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
     color: white;
-    background: #18BC9C;
+    background: #2C3E50;
 }
 
 .navbar-custom .navbar-toggle {
@@ -223,9 +223,9 @@ header .intro-text .skills {
 
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-    background-color: #18BC9C;
+    background-color: #2C3E50;
     color: white;
-    border-color: #18BC9C;
+    border-color: #2C3E50;
 }
 
 @media (min-width: 768px) {
@@ -259,7 +259,7 @@ section h2 {
 }
 
 section.success {
-    background: #18BC9C;
+    background: #2C3E50;
     color: white;
 }
 
@@ -378,7 +378,7 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #18BC9C;
+    color: #2C3E50;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -395,7 +395,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #2C3E50;
+    background-color: #BD202C;
 }
 
 footer .footer-col {
@@ -420,15 +420,15 @@ footer .footer-below {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    color: #18BC9C;
+    color: #2C3E50;
     background: white;
     border: solid 2px white;
 }
 
 .btn-primary {
     color: white;
-    background-color: #2C3E50;
-    border-color: #2C3E50;
+    background-color: #BD202C;
+    border-color: #BD202C;
     font-weight: 700;
 }
 
@@ -463,19 +463,19 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    background-color: #2C3E50;
-    border-color: #2C3E50;
+    background-color: #BD202C;
+    border-color: #BD202C;
 }
 
 .btn-primary .badge {
-    color: #2C3E50;
+    color: #BD202C;
     background-color: white;
 }
 
 .btn-success {
     color: white;
-    background-color: #18BC9C;
-    border-color: #18BC9C;
+    background-color: #2C3E50;
+    border-color: #2C3E50;
     font-weight: 700;
 }
 
@@ -485,8 +485,8 @@ fieldset[disabled] .btn-primary.active {
 .btn-success.active,
 .open .dropdown-toggle.btn-success {
     color: white;
-    background-color: #128f76;
-    border-color: #11866f;
+    background-color: #BD202C;
+    border-color: #BD202C;
 }
 
 .btn-success:active,
@@ -510,12 +510,12 @@ fieldset[disabled] .btn-success:active,
 .btn-success.disabled.active,
 .btn-success[disabled].active,
 fieldset[disabled] .btn-success.active {
-    background-color: #18BC9C;
-    border-color: #18BC9C;
+    background-color: #2C3E50;
+    border-color: #2C3E50;
 }
 
 .btn-success .badge {
-    color: #18BC9C;
+    color: #2C3E50;
     background-color: white;
 }
 
@@ -561,8 +561,6 @@ fieldset[disabled] .btn-success.active {
     font-size: 1.2em;
 }
 
-
-
 .universities h3 {
     padding-top: 10px;
 }
@@ -589,4 +587,10 @@ fieldset[disabled] .btn-success.active {
 
 .card-student div {
     margin-right: 15px;
+}
+
+.canada-flag {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 50px;
 }
