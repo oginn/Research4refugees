@@ -1,4 +1,4 @@
-[CANADA RESEARCH-A-THON](http://research4refugees.com/)
+#[CANADA RESEARCH-A-THON](http://research4refugees.com/)
 
 On Saturday, February 4th 2017
 22 law schools across Canada will be working together to assist the Canadian Council for Refugees
