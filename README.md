@@ -1,27 +1,28 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
+#[CANADA RESEARCH-A-THON](http://research4refugees.com/)
 
-[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
+On Saturday, February 4th 2017
+22 law schools across Canada will be working together to assist the Canadian Council for Refugees
 
-## Getting Started
+##ORGANIZATION
+Students will gather on their local campuses to conduct legal research and draft memos in response to research questions suggested by the Canadian Council for Refugees (CCR). The research will be aimed at potential legal challenges to the Safe Third Country Agreement, or will support related mandates of the CCR.
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git`
-* Fork the repo
+##WHY ARE CANADIAN LAW STUDENTS DOING THIS?
 
-## Bugs and Issues
+On January 29th, 2017, President Donald Trump signed an executive order for extreme vetting. Consequently, Syrian refugees have been indefinitely barred from entering the United States, a 4 month ban has been imposed on anyone travelling from Syria, Iran, Iraq, Yemen, Libya, Sudan and Somalia, and a 90 day ban has been implemented on non-US citizens who hold dual citizenship. 
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
+This inevitably resulted in confusion, misinformation and uncertainty amongst those who were greeted by this new executive order upon their arrival to the United States. A federal judge put a stay on deporting new arrivals, leaving many people in legal limbo and faced with the prospect of going back to a country where they may be in danger. This is problematic because there are people already in the United States who planned on making refugee claims and now no longer can. 
 
-## Creator
+However, due to the Safe Third Country Agreement (STCA)t signed between Canada and the US in 2004, those same people denied entry to the US cannot come to Canada to make their claim.
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+##WHAT EXACTLY IS THE SAFE THIRD COUNTRY AGREEMENT (STCA)? WHY DO WE HAVE THIS?
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+It is an agreement between Canada and the US that recognizes each other as “safe” for refugee claimants. This means that those who try to enter Canada through the US to make a claim at the border, are returned to the US regardless of whether they will or already have had access to asylum in the US. In essence, the Agreement prohibits asylum seekers from making refugee claims at the border.
 
-## Copyright and License
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
+##ARE THERE EXCEPTIONS?
+
+Yes, the Agreement allows for some limited exceptions. The most important one is: 
+- Those who have a family member in Canada with status. These individuals are permitted to enter and make a claim. 
+
+Those claimants who qualify for an exemption to the STCA, are permitted to proceed with a claim before the Refugee Protection Division. However, the legislation provides that they are barred from appealing a negative decision to the Refugee Appeal Division. The appeal bar bears no connection to the merits of the refugee claim, as it is tied solely to the fact that the claimant made their claim at a land border with the US.
