@@ -556,3 +556,7 @@ fieldset[disabled] .btn-success.active {
 .scroll-top .btn:focus {
     outline: none;
 }
+
+.explanation {
+    font-size: 1.2em;
+}
