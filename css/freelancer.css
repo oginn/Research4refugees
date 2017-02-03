@@ -560,3 +560,33 @@ fieldset[disabled] .btn-success.active {
 .explanation {
     font-size: 1.2em;
 }
+
+
+
+.universities h3 {
+    padding-top: 10px;
+}
+
+.card {
+    box-shadow: 0 2px 3px hsla(0,0%,4%,.1), 0 0 0 1px hsla(0,0%,4%,.1);
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.card-header {
+    display: flex;
+    align-items: center;
+}
+
+.card-header h5 {
+    margin-right: 15px;
+}
+
+.card-student {
+    display: flex;
+    align-items: center;
+}
+
+.card-student div {
+    margin-right: 15px;
+}
