@@ -560,3 +560,9 @@ fieldset[disabled] .btn-success.active {
 .explanation {
     font-size: 1.2em;
 }
+
+.canada-flag {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 50px;
+}
