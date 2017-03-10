@@ -595,3 +595,13 @@ fieldset[disabled] .btn-success.active {
     margin-left: 10px;
     width: 50px;
 }
+
+.btn-header {
+    margin: 15px;
+    background: #BD202C;
+    border-color: #BD202C;
+    color: white;
+}
+.btn-header:active, .btn-header:hover, .btn-header:focus {
+    color: white;
+}
